@@ -1,0 +1,27 @@
+[
+  {
+    "id": "rmo-otp-2025-12-25",  
+    "origin": "OTP",
+    "destination": "TFS",            
+    "depart_date": "2026-07-08",  
+    "return_date": null,         
+    "adults": 1,                        
+    "cabin_class": "economy"
+  },
+  {
+    "origin": "TFS",
+    "destination": "OTP",
+    "depart_date": "2026-07-08",
+    "return_date": null,
+    "adults": 1,
+    "cabin_class": "economy"
+  },
+  {
+    "origin": "RMO",
+    "destination": "OTP",
+    "depart_date": "2026-07-08",
+    "return_date": null,
+    "adults": 1,
+    "cabin_class": "economy"
+  }
+]
